@@ -1,0 +1,1 @@
+- Prefers DeepSeek models (e.g., deepseek-v4-pro) over Qwen. Confidence: 0.8
